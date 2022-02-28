@@ -1,0 +1,1 @@
+Working of command uname in ubuntu VM when run without any option
