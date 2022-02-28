@@ -1,1 +1,0 @@
-it prints my linux kernel name.
